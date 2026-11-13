@@ -34,7 +34,7 @@ The three decisions cover:
 - Using scheduled incremental batch processing instead of continuous streaming.
 
 ### 4. Board Presentation
-Summarises the ranked business problems, recommended strategy and quarterly roadmap. It also identifies information that could not be verified from the assignment brief, including the full extent of customer-data copies, the financial impact of website slowdowns, the causes of reporting differences and actual operating costs.
+Summarises the ranked business problems, recommended strategy and quarterly roadmap. It also identifies information that I could not verify from the lab brief, including the full extent of customer-data copies, the financial impact of website slowdowns, the causes of reporting differences and actual operating costs.
 
 ### 5. Improvement Beyond the Brief
 Introduces the **Monday Figures Check**, a shared spreadsheet for Nana and Finance to compare business figures, record differences, assign responsibility and track follow-up.
