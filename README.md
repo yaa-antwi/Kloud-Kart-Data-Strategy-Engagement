@@ -14,7 +14,7 @@ Identifies and ranks Kloud Kart's three main data problems:
 - Website performance slowdowns caused by reporting workloads.
 - Inconsistent business reporting between Nana and Finance.
 
-Each problem is examined through its root cause, potential costs, assumptions and risk to the business.
+Each problem is examined through its root cause, potential costs, assumptions and risk to the board conversation.
 
 ### 2. Data Strategy Recommendation and 12-Month Roadmap
 Recommends using an approved second server to host a MySQL read replica, moving reporting away from the live database, and introducing scheduled daily reports.
