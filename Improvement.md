@@ -68,7 +68,7 @@ I will measure the time Nana currently spends rebuilding and checking her Monday
 
 The improvement will be successful when:
 
-- Nana and Finance compare figures for the same reporting period.
+- Nana and Finance compare figures for the same reporting period and it tallies
 - Differences are recorded instead of being overlooked.
 - Every unresolved difference has a named person responsible for following it up.
 - Nana can see whether the figures match before presenting them to management.
@@ -78,6 +78,6 @@ The improvement will be successful when:
 
 This improvement does not require another data hire, a new system or a separate warehouse. It can be built as a shared spreadsheet using the tools Kloud Kart already has.
 
-The assignment does not explain which figures disagree or why they differ. I will therefore begin by identifying the figures involved and investigating the causes rather than assuming what is wrong.
+The brief does not explain which figures disagree or why they differ. I will therefore begin by identifying the figures involved and investigating the causes rather than assuming what is wrong.
 
 The spreadsheet gives Nana and Finance a practical way to track differences and their resolution. It adds a checking and follow-up step to the reporting process, helping management avoid relying on figures whose differences have not been explained.
