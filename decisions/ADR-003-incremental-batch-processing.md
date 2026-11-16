@@ -2,7 +2,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-11-12
-- **Decision owner:** Kloud Kart leadership
+- **Decision owner:** Data Consultant (Kloud Kart engagement)
 
 ## Context
 
